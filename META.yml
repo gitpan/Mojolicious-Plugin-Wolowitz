@@ -21,4 +21,4 @@ requires:
 resources:
   bugtracker: https://github.com/gugod/Mojolicious-Plugin-Wolowitz/issues
   repository: git://github.com/gugod/Mojolicious-Plugin-Wolowitz.git
-version: 1.0.0
+version: 1.0.1

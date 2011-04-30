@@ -19,7 +19,7 @@ my %module_build_args = (
     'Kang-min Liu <gugod@gugod.org>'
   ],
   'dist_name' => 'Mojolicious-Plugin-Wolowitz',
-  'dist_version' => '1.0.0',
+  'dist_version' => '1.0.1',
   'license' => 'mit',
   'module_name' => 'Mojolicious::Plugin::Wolowitz',
   'recommends' => {},
